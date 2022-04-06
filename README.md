@@ -97,11 +97,6 @@ bash <(curl -L https://tinyurl.com/Alpha-X-QR-CODE)
 ```
 **• Watch tutorial** [Video](https://youtu.be/6PpRFnr2dSg) **to get qr using termux**
 
-### `• Deploy To Heroku 🚀`
-
-# fork this repo and make installer your self then deploy 🔩️
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/UviYaBro/Alpha-X-WA-Bot-Installer-31)
-
 > Click the logo to watch Bot tutorial video ✅
 
 <a href="https://youtube.com/watch?v=en4FLOsGRJY"><img title="Logo" src="https://telegra.ph/file/b2494d5bc4d55ebab9980.jpg">
